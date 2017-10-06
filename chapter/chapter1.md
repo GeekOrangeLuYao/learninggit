@@ -13,6 +13,7 @@ This creates a new subdirectory named .git that contains all of your necessary r
 
 3. git commit -m "commit content'
 这个就是把追踪的文件提交到git中
+3.1. git commit --amend：可以撤销上一次的提交，然后加上忘掉的文件，重新提交一次
 
 4. git clone .git
 这个是从一个git网上库下载到本地
@@ -35,4 +36,8 @@ git mv是真的
 9. git log
 就是查看git所有的commit的
 这个命令有很多的功能，有筛选机制
+
+### Working with Remotes
+10. git remote
+git remote -v可以看到非常详细的信息
 
