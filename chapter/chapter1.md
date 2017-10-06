@@ -30,3 +30,9 @@ git mv是真的
 
 8. git rm
 也是真的删除
+
+### Viewing the Commit History
+9. git log
+就是查看git所有的commit的
+这个命令有很多的功能，有筛选机制
+
