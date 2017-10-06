@@ -22,3 +22,5 @@ This creates a new subdirectory named .git that contains all of your necessary r
 可以看到当前add的文件和没有被add的文件
 但是当被commit之后就不需要了
 
+6. git diff
+现在来阐述一下如何比较两个版本的文件
