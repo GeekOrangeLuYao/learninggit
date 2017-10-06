@@ -24,3 +24,9 @@ This creates a new subdirectory named .git that contains all of your necessary r
 
 6. git diff
 现在来阐述一下如何比较两个版本的文件
+
+7. git mv
+git mv是真的
+
+8. git rm
+也是真的删除
